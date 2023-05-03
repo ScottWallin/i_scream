@@ -1,0 +1,20 @@
+body {
+  color: white;
+}
+
+/* ✨ UTILITIES  ✨ */
+.hdr-color {
+  background-color: #d72638
+}
+
+.hdr-text {
+  font-size: 30px;
+}
+
+.checkout {
+  border-color: #d72638;
+  border-radius: 5px;
+  height: 25%;
+  width: 100%;
+
+}
